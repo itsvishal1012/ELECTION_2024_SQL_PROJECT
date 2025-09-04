@@ -1,4 +1,4 @@
-# 🇮🇳 India General Elections 2024 - Data Analysis
+# India General Elections 2024 - Data Analysis
 
 This repository contains SQL-based analysis of the **India General
 Elections 2024** using official constituency and party-level datasets.
